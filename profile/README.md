@@ -11,10 +11,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## [ExpertLinked.In](ExpertLinked.In)
+## [ExpertLinked.In](https://ExpertLinked.In)
 
-## [SEAWeekly.com](SEAWeekly.com)
+## [SEAWeekly.com](https://SEAWeekly.com)
 
-## [TellStory.net](TellStory.net)
+## [TellStory.net](https://TellStory.net)
 
-## [TellJoke.net](TellJoke.net)
+## [TellJoke.net](https://TellJoke.net)
